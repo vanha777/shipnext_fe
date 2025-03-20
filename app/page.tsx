@@ -52,7 +52,7 @@ export default function Home() {
                 <div className="w-3 h-3 rounded-full bg-green-500"></div>
               </div>
               <code className="text-green-400 font-mono text-sm">
-                $ ./shipnext bootsrtap
+                $ ./shipnext bootstrap
                 <br /><br />
                 <span className="text-gray-400">Bundle Into Tauri Apps Structure...</span>
                 <br />
